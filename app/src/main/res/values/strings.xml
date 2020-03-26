@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Contextual_ActionMode_with_Delete_Function</string>
+
+    <string-array name="image_name">
+        <item>image 1</item>
+        <item>image 2</item>
+        <item>image 3</item>
+        <item>image 4</item>
+        <item>image 5</item>
+        <item>image 6</item>
+        <item>image 7</item>
+        <item>image 8</item>
+        <item>image 9</item>
+        <item>image 10</item>
+        <item>image 11</item>
+        <item>image 12</item>
+        <item>image 13</item>
+        <item>image 14</item>
+        <item>image 15</item>
+        <item>image 16</item>
+        <item>image 17</item>
+        <item>image 18</item>
+        <item>image 19</item>
+        <item>image 20</item>
+    </string-array>
+
+</resources>
